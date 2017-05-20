@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: client
+Implementation-Version: 0.1.4-SNAPSHOT
+Built-By: yehoshuamatamorosvalverde
+Implementation-Vendor-Id: ch.javaee.demo
+Created-By: Apache Maven 3.0.5
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/angular2/cli
+ ent/
+Implementation-Vendor: Pivotal Software, Inc.
+

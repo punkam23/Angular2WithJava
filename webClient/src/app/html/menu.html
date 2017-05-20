@@ -1,0 +1,34 @@
+<div class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+
+            <div class="navbar-brand"><div>
+                Java and Angular
+            </div>
+                <div>
+                <a  class="title-name pull-right" href="http://javaee.ch">by JavaEE.ch</a>
+                </div>
+            </div>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a [routerLink]="['/app-blog']">Blog</a></li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                       role="button" aria-haspopup="true" aria-expanded="false">Examples<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a [routerLink]="['/app-d3-example']">Example with D3 graphic lib</a></li>
+                        <li><a [routerLink]="['/app-davis']">Davis Cup - REST object list</a></li>
+                        <li><a [routerLink]="['/app-hello-world']">Simple hello world - REST text</a></li>
+                        <li><a [routerLink]="['/app-simple-image']">Simple image from REST</a></li>
+                        <li><a [routerLink]="['/app-highlight-example']">Highlight.js example</a></li>
+                        <li><a [routerLink]="['/app-cv']">CV</a></li>
+                        <li><a [routerLink]="['/app-login']">Login</a></li>
+                       <!-- <li><a [routerLink]="['/app-cv-old']">CV (Old)</a></li>-->
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

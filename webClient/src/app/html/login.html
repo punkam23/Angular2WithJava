@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="row">
+        <div class="span12">
+                    <div id="legend">
+                        <legend class="">Login</legend>
+                    </div>
+                    <div class="control-group">
+                        <!-- Username -->
+                        <label class="control-label"  for="username">Username</label>
+                        <div class="controls">
+                            <input type="text" id="username" name="username" [(ngModel)]="username" placeholder="" class="input-xlarge">
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <!-- Password-->
+                        <label class="control-label" for="password">Password</label>
+                        <div class="controls">
+                            <input type="password" id="password" [(ngModel)]="password" name="password" placeholder="" class="input-xlarge">
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <!-- Button -->
+                        <div class="controls">
+                            <a (click)="ValidUser()" class="btn btn-success" >Login</a>
+                            <!--<button [routerLink]="['/app-menu']" class="btn btn-success">Login</button>-->
+                        </div>
+                    </div>
+        </div>
+    </div>
+</div>
+
