@@ -3,7 +3,7 @@
 # Angular 2 with Java backend example
 
 This is an example of implementation of a single page application using MVVC patter.
-More information will be adde , about each single componnet used in the application for his deployment.
+More information will be added , about each single component used in the application for his deployment.
 
 Please note that this code is very experimental and regularly modified.
 
