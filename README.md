@@ -1,7 +1,6 @@
-[![Build Status](https://travis-ci.org/marco76/SpringAngular2TypeScript.svg?branch=master)](https://travis-ci.org/marco76/SpringAngular2TypeScript) [![star this repo](http://githubbadges.com/star.svg?user=marco76&repo=SpringAngular2TypeScript&style=default)](https://github.com/marco76/SpringAngular2TypeScript)
-[![fork this repo](http://githubbadges.com/fork.svg?user=marco76&repo=SpringAngular2TypeScript&style=default)](https://github.com/marco76/SpringAngular2TypeScript/fork)
 
-# SpringAngular2TypeScript
+
+# Angular 2 with Java backend example
 
 This is an example of implementation of a single page application using MVVC patter.
 More information will be adde , about each single componnet used in the application for his deployment.
