@@ -1,7 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="496dc178-241d-4b44-a05f-4f41851142a4" name="Default" comment="" />
+    <list default="true" id="496dc178-241d-4b44-a05f-4f41851142a4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webClient/src/assets/Yehoshua.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/src/main/resources/json/cv-old.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/Application$SecurityConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/DBConnection/DBConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/configuration/TomcatCustomizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/model/DavisCup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/model/blog/Article.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/repository/blog/ArticleRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/security/AuthorizationServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/security/CorsFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/security/ResourceServerConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/BlogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/BlogServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/DavisService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/DavisServiceCodedImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/HelloWorldService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/HelloWorldServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/LoginService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/service/LoginServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/BlogController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/CvController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/DavisController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/HelloWorldController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/ImageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/ch/javaee/demo/angular2/web/RouterController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/classes/json/cv-old.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/Application$SecurityConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/DBConnection/DBConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/configuration/TomcatCustomizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/model/DavisCup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/model/blog/Article.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/repository/blog/ArticleRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/security/AuthorizationServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/security/CorsFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/security/ResourceServerConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/BlogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/BlogServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/DavisService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/DavisServiceCodedImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/HelloWorldService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/HelloWorldServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/LoginService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/service/LoginServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/BlogController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/CvController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/DavisController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/HelloWorldController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/ImageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/ch/javaee/demo/angular2/web/RouterController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/json/cv-old.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/static/app.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/static/polyfills.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/static/vendor.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-ch.javaee.demo.angular2.test.blog.BlogServiceTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-ch.javaee.demo.angular2.test.web.DavisControllerTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/TEST-ch.javaee.demo.angular2.test.web.HelloWorldControllerTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/ch.javaee.demo.angular2.test.blog.BlogServiceTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/ch.javaee.demo.angular2.test.web.DavisControllerTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/surefire-reports/ch.javaee.demo.angular2.test.web.HelloWorldControllerTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/test-classes/ch/javaee/demo/angular2/test/ApplicationTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/test-classes/ch/javaee/demo/angular2/test/blog/BlogServiceTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/test-classes/ch/javaee/demo/angular2/test/web/DavisControllerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/test-classes/ch/javaee/demo/angular2/test/web/HelloWorldControllerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/war/work/ch.javaee.demo/client/static/app.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/war/work/ch.javaee.demo/client/static/polyfills.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/target/war/work/ch.javaee.demo/client/static/vendor.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/src/assets/marco.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/src/dist/app.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/src/dist/polyfills.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/src/dist/vendor.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT/static/app.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT/static/polyfills.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT/static/vendor.1369f31520b39cc38a98.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/Application.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/Application.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/DBConnection/DBConnection.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/DBConnection/DBConnection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/configuration/TomcatCustomizer.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/configuration/TomcatCustomizer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/model/DavisCup.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/model/DavisCup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/model/blog/Article.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/model/blog/Article.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/repository/blog/ArticleRepository.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/repository/blog/ArticleRepository.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/security/AuthorizationServer.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/security/AuthorizationServer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/security/CorsFilter.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/security/CorsFilter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/security/ResourceServerConfig.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/security/ResourceServerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/BlogService.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/BlogService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/BlogServiceImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/BlogServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/DavisService.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/DavisService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/DavisServiceCodedImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/DavisServiceCodedImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/HelloWorldService.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/HelloWorldService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/HelloWorldServiceImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/HelloWorldServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/LoginService.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/LoginService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/service/LoginServiceImpl.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/service/LoginServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/BlogController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/BlogController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/CvController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/CvController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/DavisController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/DavisController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/HelloWorldController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/HelloWorldController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/ImageController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/ImageController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/LoginController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/LoginController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/web/RouterController.java" afterPath="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/RouterController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/test/java/ch/javaee/demo/angular2/test/ApplicationTest.java" afterPath="$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/ApplicationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/test/java/ch/javaee/demo/angular2/test/blog/BlogServiceTest.java" afterPath="$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/blog/BlogServiceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/test/java/ch/javaee/demo/angular2/test/web/DavisControllerTest.java" afterPath="$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/web/DavisControllerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/server/src/test/java/ch/javaee/demo/angular2/test/web/HelloWorldControllerTest.java" afterPath="$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/web/HelloWorldControllerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT.war" afterPath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT.war.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT.war" afterPath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/src/main/resources/json/cv.json" afterPath="$PROJECT_DIR$/server/src/main/resources/json/cv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/classes/json/cv.json" afterPath="$PROJECT_DIR$/server/target/classes/json/cv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/server/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/json/cv.json" afterPath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/WEB-INF/classes/json/cv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/static/index.html" afterPath="$PROJECT_DIR$/server/target/server-0.1.4-SNAPSHOT/static/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/target/war/work/ch.javaee.demo/client/static/index.html" afterPath="$PROJECT_DIR$/server/target/war/work/ch.javaee.demo/client/static/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/app/components/app.component.ts" afterPath="$PROJECT_DIR$/webClient/src/app/components/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/app/components/blog.component.ts" afterPath="$PROJECT_DIR$/webClient/src/app/components/blog.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/app/components/cv/cv.component.ts" afterPath="$PROJECT_DIR$/webClient/src/app/components/cv/cv.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/app/html/menu.html" afterPath="$PROJECT_DIR$/webClient/src/app/html/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/app/services/cv.service.ts" afterPath="$PROJECT_DIR$/webClient/src/app/services/cv.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/src/dist/index.html" afterPath="$PROJECT_DIR$/webClient/src/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT/static/index.html" afterPath="$PROJECT_DIR$/webClient/target/client-0.1.4-SNAPSHOT/static/index.html" />
+    </list>
     <ignored path="angular2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/webClient/target/" />
@@ -23,13 +152,91 @@
     <favorites_list name="angular2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webClient/src/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cv.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webClient/src/app/components/cv/cv.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="150">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <marker date="1495410356000" expanded="true" signature="440:1396" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="464:1388" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="499:1164" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="532:1157" ph="..." />
+                <marker date="1495410356000" expanded="false" signature="567:577" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="578:1150" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="626:819" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="742:752" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="850:1076" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="872:1065" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="1193:1367" ph="..." />
+                <marker date="1495410356000" expanded="true" signature="1259:1354" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webClient/src/app/components/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+                <marker date="1495410718000" expanded="true" signature="492:507" ph="..." />
+                <marker date="1495410718000" expanded="true" signature="508:569" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webClient/src/app/html/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cv.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/resources/json/cv.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CvController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/CvController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webClient/src/app/components/blog.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="37" column="255" selection-start-line="37" selection-start-column="255" selection-end-line="37" selection-end-column="255" />
+              <folding>
+                <marker date="1495410921000" expanded="true" signature="444:682" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="471:663" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="501:650" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="717:1455" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="747:1102" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="759:1089" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="813:1077" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="857:1045" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="893:1024" ph="..." />
+                <marker date="1495410921000" expanded="true" signature="1131:1439" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,6 +260,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/webClient/src/index.html" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/Application.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/ch/javaee/demo/angular2/configuration/TomcatCustomizer.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/configuration/TomcatCustomizer.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/Application.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/json/cv.json" />
+        <option value="$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/web/DavisControllerTest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/json/cv-old.json" />
+        <option value="$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/CvController.java" />
+        <option value="$PROJECT_DIR$/webClient/src/app/services/cv.service.ts" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/webClient/src/app/html/menu.html" />
+        <option value="$PROJECT_DIR$/webClient/src/app/components/cv/cv.component.ts" />
+        <option value="$PROJECT_DIR$/webClient/src/app/components/app.component.ts" />
+        <option value="$PROJECT_DIR$/webClient/src/app/components/blog.component.ts" />
       </list>
     </option>
   </component>
@@ -72,8 +293,11 @@
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/webClient/src/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="104" />
+    <option name="y" value="33" />
     <option name="width" value="1280" />
     <option name="height" value="632" />
   </component>
@@ -102,9 +326,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -151,7 +375,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -172,6 +396,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -183,7 +411,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
+              <option name="myItemId" value="webClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Angular2WithJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,12 +457,65 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webClient/src/assets" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -226,6 +541,160 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -245,6 +714,76 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -311,6 +850,50 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
     <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ch.javaee.demo.angular2.Application" />
@@ -333,43 +916,44 @@
       <option name="presentableId" value="Default" />
       <updated>1495251155584</updated>
       <workItem from="1495251157482" duration="1451000" />
+      <workItem from="1495402199155" duration="5914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1451000" />
+    <option name="totallyTimeSpent" value="7365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="104" width="1280" height="632" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="33" width="1280" height="632" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2462963" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2092084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2462963" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2462963" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.49030694" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -391,9 +975,146 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webClient/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/json/cv-old.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/assets/marco.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/configuration/TomcatCustomizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/app/components/cv/cv.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1495410356000" expanded="true" signature="440:1396" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="464:1388" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="499:1164" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="532:1157" ph="..." />
+            <marker date="1495410356000" expanded="false" signature="567:577" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="578:1150" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="626:819" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="742:752" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="850:1076" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="872:1065" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="1193:1367" ph="..." />
+            <marker date="1495410356000" expanded="true" signature="1259:1354" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/app/components/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1495410718000" expanded="true" signature="492:507" ph="..." />
+            <marker date="1495410718000" expanded="true" signature="508:569" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/app/html/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/java/javaee/demo/angular2/test/web/DavisControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/json/cv.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/app/services/cv.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/javaee/demo/angular2/web/CvController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webClient/src/app/components/blog.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="37" column="255" selection-start-line="37" selection-start-column="255" selection-end-line="37" selection-end-column="255" />
+          <folding>
+            <marker date="1495410921000" expanded="true" signature="444:682" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="471:663" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="501:650" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="717:1455" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="747:1102" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="759:1089" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="813:1077" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="857:1045" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="893:1024" ph="..." />
+            <marker date="1495410921000" expanded="true" signature="1131:1439" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

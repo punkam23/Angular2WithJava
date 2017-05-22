@@ -10,7 +10,7 @@ export class CvMainService {
    
      constructor (private http: Http, private ConstantsService: ConstantsService) {}
 
-    private cvURL =  this.ConstantsService.BACKEND_URL + '/rest/cv/marco';  // URL to web api
+    private cvURL =  this.ConstantsService.BACKEND_URL + '/rest/cv/yehoshua';  // URL to web api
     private cvURLOld =  this.ConstantsService.BACKEND_URL + '/rest/cv/old-cv';  // URL to web api
 
     getCv(): Observable<CvMain> {

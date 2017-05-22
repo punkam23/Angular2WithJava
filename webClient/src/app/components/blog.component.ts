@@ -12,8 +12,8 @@ import {BlogArticle} from "../model/blogArticle";
       <div class="row">
     <div class="col-md-9">
     <div class="text-center">
-      <h3>List of posts published on JavaEE.ch about the Angular/Java stack</h3>
-      <p>This site shows some code of javaee.ch is only for educational purposes. The code is available on github.</p>
+      <h3>List of posts about the Angular/Java stack</h3>
+      <p>This site shows some code and is only for educational purposes. </p>
       </div>
       </div>
       
@@ -35,7 +35,7 @@ import {BlogArticle} from "../model/blogArticle";
       </ul>
       </div>
       <div class="col-md-2">
-          <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="javaee"><a class="LI-simple-link" href='https://ch.linkedin.com/in/javaee?trk=profile-badge'>Marco Molteni</a></div>
+          <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="javaee"><a class="LI-simple-link" href='https://www.linkedin.com/in/yehoshua-matamoros-valverde-19738137'>Yehoshua Matamoros Valverde</a></div>
       </div>
       <br>
     `,

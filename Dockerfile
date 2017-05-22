@@ -1,7 +1,7 @@
 FROM openjdk:8u102-jdk
 FROM maven:3.3.9-jdk-8
 
-MAINTAINER "Marco Molteni <javaee.ch>"
+MAINTAINER "Yehoshua Matamoros <javaee.ch>"
 
 # set the path JAVA_HOME for maven
 RUN export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
@@ -22,7 +22,7 @@ RUN apt-get install -y nodejs
 #RUN tar xzf ./apache-tomcat-8.5.5.tar.gz
 
 # clone the repository with the code
-RUN git clone git://github.com/marco76/SpringAngular2TypeScript.git
+RUN git clone https://github.com/punkam23/Angular2WithJava.git
 
 # install npm modules
 WORKDIR /usr/src/myapp/SpringAngular2TypeScript/
