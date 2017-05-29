@@ -15,15 +15,15 @@ import {Cv} from "../../model/cv";
 
   <div class="w3-card-4" style="width:100%">
     <header class="w3-container w3-light-grey">
-       <img src="assets/marco.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right w3-margin-top" style="width:60px">
+       <img src="assets/Yehoshua.png" alt="Avatar" class="w3-left w3-circle w3-margin-right w3-margin-top" style="width:60px">
      <h3>{{cv.name}}</h3>
       {{cv.currentTitle}}
     </header>
     <div class="w3-container">
       <hr>
       <ul>
-          <li> Java, Expert Group JSR</li>
-          <li> Team Leader (7 peole)</li>
+          <li> Java, C# .Net, Angular, Developer</li>
+          <li> Team Leader </li>
           <li> Banking Experience</li>
           <li> JavaScript and Angular enthusiast</li>
        </ul>

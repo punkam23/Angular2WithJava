@@ -39,6 +39,6 @@ export class LoginComponent {
             this.isValid = true;
         });
         //this.router.navigate(['app-blog']);
-        this.router.navigateByUrl('app-hello-world');
+        this.router.navigateByUrl('app-blog');
     }
 }

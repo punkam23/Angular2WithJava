@@ -15,7 +15,10 @@ import {ConstantsService} from './../services/constants.service';
         
        <!---->
         <bootstrap-menu></bootstrap-menu>
-        <router-outlet></router-outlet>  
+        <div style="margin-left:10%">
+            <router-outlet></router-outlet>  
+        </div>
+        
     `,
         providers: [HttpModule, ConstantsService, Location]
     })
