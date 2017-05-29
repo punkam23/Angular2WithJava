@@ -1,5 +1,12 @@
 -- this script is executed automatically by Spring Boot
 
+INSERT INTO POST(TITLE, ORIGINALLINK) VALUES ('Post 1 for simple example');
+INSERT INTO POST(TITLE, ORIGINALLINK) VALUES ('Post 2 for simple example');
+INSERT INTO POST(TITLE, ORIGINALLINK) VALUES ('Post 3 for simple example');
+INSERT INTO POST(TITLE, ORIGINALLINK) VALUES ('Post 4 for simple example');
+INSERT INTO POST(TITLE, ORIGINALLINK) VALUES ('Post 5 for simple example');
+
+
 INSERT INTO ARTICLE(TITLE, ORIGINALLINK) VALUES ('Faster Angular application with Spring Boot and Tomcat', 'http://javaee.ch/2017/02/20/better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat/');
 
 INSERT INTO ARTICLE(TITLE, ORIGINALLINK) VALUES ('Add highlight.js to an Angular 2 application', 'http://javaee.ch/2017/02/13/add-highlight-js-to-an-angular-2-application/');

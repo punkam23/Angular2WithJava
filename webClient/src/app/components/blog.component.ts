@@ -12,7 +12,7 @@ import {BlogArticle} from "../model/blogArticle";
       <div class="row">
     <div class="col-md-9">
     <div class="text-center">
-      <h3>List of posts about the Angular/Java stack</h3>
+      <h3>Add new post</h3>
       <p>This site shows some code and is only for educational purposes. </p>
       </div>
       </div>
@@ -34,9 +34,9 @@ import {BlogArticle} from "../model/blogArticle";
          </span>
       </ul>
       </div>
-      <div class="col-md-2">
-          <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="javaee"><a class="LI-simple-link" href='https://www.linkedin.com/in/yehoshua-matamoros-valverde-19738137'>Yehoshua Matamoros Valverde</a></div>
-      </div>
+      <!--<div class="col-md-2">-->
+          <!--<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="javaee"><a class="LI-simple-link" href='https://www.linkedin.com/in/yehoshua-matamoros-valverde-19738137'>Yehoshua Matamoros Valverde</a></div>-->
+      <!--</div>-->
       <br>
     `,
     providers: [HttpModule, BlogService, ConstantsService, Location]
