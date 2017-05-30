@@ -51,15 +51,15 @@ drivers to interact with your application as a user would. You no longer need to
 
 
 Use npm to install Protractor
-    1.  npm install -g protractor
+    *   npm install -g protractor
 
 The webdriver-manager is a helper tool to easily get an instance of a Selenium Server running
-    1.  webdriver-manager update
-    2.  webdriver-manager start
+    *   webdriver-manager update
+    *   webdriver-manager start
 
 Protractor needs two files to run, a spec file and a configuration file.
-    1.  Open new terminal
-    2.  Goto cd webClient/testProtractor
-    3.  run the test,
-            protractor conf.js
+    *   Open new terminal
+    *   Goto cd webClient/testProtractor
+    *   run the test,
+            * protractor conf.js
 
