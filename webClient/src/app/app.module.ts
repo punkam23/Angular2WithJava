@@ -2,6 +2,7 @@
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule }    from '@angular/http';
+import { AgmCoreModule } from 'angular2-google-maps/core';
 
 // Router Module: The router module allows the routing of the pages in our application
 // we need it to jump from the welcome page to another page
@@ -39,7 +40,9 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports:      [BrowserModule, HttpModule, RouterModule.forRoot(routes),FormsModule ],
+  imports:      [BrowserModule, HttpModule, RouterModule.forRoot(routes),FormsModule,AgmCoreModule.forRoot({
+      apiKey: 'AIzaSyAL0KxoAxatbmYWV49VhIfkRUKHJaQ_CB8'
+  }) ],
   declarations: [AppComponent, DavisComponent, HelloWorld, BlogComponent, MenuComponent,  HighlightCodeDirective,
       D3Component, ImageComponent, LoginComponent, HighlightComponent, CvMainComponent, CvExperience
 ],
