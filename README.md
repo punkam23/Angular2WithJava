@@ -63,3 +63,37 @@ Protractor needs two files to run, a spec file and a configuration file.
 *   run the test,
 * protractor conf.js
 
+
+# RxJS Observable Data Services
+
+Operators are the horse-power behind observables, providing an elegant, declarative solution to complex asynchronous tasks.
+An example in our code, can be founded in login.service.ts, where we use Observable with params;
+
+
+// return an observable and not a Promise
+    getValidUser(user : string, password : string) : Observable<JsonString> {
+
+        // creating parameter object
+       let params: URLSearchParams = new URLSearchParams();
+        params.set('username', user);
+        params.set('password', password);
+
+        // adding parameters to request
+        let requestOptions = new RequestOptions();
+        requestOptions.search = params;
+
+        console.log('calling : ' + this._loginUrl);
+        return this.http
+            .get(this._loginUrl, requestOptions) // return RxJS Observable
+            .map((response: Response) => {
+
+                console.log("REST response: " + response);
+                console.log("REST response json: " + JSON.stringify(response.json()));
+
+                return response.json();
+            })
+    }
+
+
+
+
