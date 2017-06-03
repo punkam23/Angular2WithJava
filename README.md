@@ -69,6 +69,24 @@ Protractor needs two files to run, a spec file and a configuration file.
 Operators are the horse-power behind observables, providing an elegant, declarative solution to complex asynchronous tasks.
 An example in our code, can be founded in login.service.ts, where we use Observable with params;
 
+Calling the observable service can be done in the component file, in this case we subscribe the service response,
+
+
+    constructor(private loginService : LoginService, public router : Router){}
+
+    ValidUser() : void {
+            console.log('calling : ValidateUser');
+            this.loginService.getValidUser(this.username, this.password)
+                .subscribe((data : JsonString) => {
+                // we receive a json object, we have to extract the string
+                this.isValid = true;
+            });
+            //redirecting to other component
+            this.router.navigateByUrl('app-blog');
+        }
+
+
+An example of observable utilization in our code, can be founded in login.service.ts, where we use Observable with params;
 
     // return an observable and not a Promise
     getValidUser(user : string, password : string) : Observable<JsonString> {
