@@ -70,7 +70,7 @@ Operators are the horse-power behind observables, providing an elegant, declarat
 An example in our code, can be founded in login.service.ts, where we use Observable with params;
 
 
-// return an observable and not a Promise
+    // return an observable and not a Promise
     getValidUser(user : string, password : string) : Observable<JsonString> {
 
         // creating parameter object
